@@ -1,11 +1,11 @@
-To-Do List Application (Python CLI)
+# To-Do List Application (Python CLI)
 
     A simple console-based To-Do List Manager built using Python.
     This application supports adding, viewing, removing, marking tasks complete, and saving them permanently using a text file.
 
     This project demonstrates file handling, lists, string manipulation, and menu-driven CLI design.
 
-✨ Features
+# ✨ Features
 
     ➕ Add new tasks
     📋 View all tasks
@@ -15,27 +15,26 @@ To-Do List Application (Python CLI)
     💾 Persistent storage using tasks.txt
     Simple, user-friendly CLI menu
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
-Python 3
-
+    Python 3
     Lists
     Functions
     File handling (open, read/write)
     CLI-based user interaction
 
-🚀 How to Run
+# 🚀 How to Run
     1. Clone the repository
-    git clone https://github.com/Devansh-1609/TASK.2.git
+    git clone https://github.com/Devansh-1609/Task.2.git
 
     2. Run the application
     python todo.py
 
-📸 Sample Output
+# 📸 Sample Output
     Here is an example of how the app looks:
     ![Sample Output](output.png)
 
-🔮 Future Enhancements
+# 🔮 Future Enhancements
 
     Due dates for tasks
     Priority levels (High/Medium/Low)
@@ -44,7 +43,7 @@ Python 3
     GUI version (Tkinter or PyQt)
 
 
-👤 Author
+# 👤 Author
 
     Devanshi Modak
     Intern | Python Learner
